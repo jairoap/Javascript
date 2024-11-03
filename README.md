@@ -1,1 +1,1 @@
-# Repositorio contendo alguns exemplos de códigos com funcionalidades específicas 
+# Repositório contendo alguns exemplos de códigos com funcionalidades específicas 
