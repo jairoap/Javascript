@@ -1,7 +1,0 @@
-(function (){
-
-    
-    alert("Função autoinvocável");
-
-
-})()
