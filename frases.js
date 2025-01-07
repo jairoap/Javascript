@@ -7,9 +7,13 @@ const frases = [
     { frase: 'Lutar pelo amor é bom, mas alcançá-lo sem luta é melhor.', autor: 'William Shakespeare' },
     { frase: 'Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.', autor: 'Oscar Wilde' },
     { frase: 'A alegria está na luta, na tentativa, no sofrimento envolvido e não na vitória propriamente dita.', autor: 'Mahatma Gandhi' },
+    {frase: 'Se queremos progredir, não devemos repetir a história, mas fazer uma história nova', autor: 'Mahatma Gandhi'},
     {frase: 'O fracasso é a oportunidade de começar de novo, de forma mais inteligente.', autor: 'Henry Ford'},
     {frase: 'O sucesso é construído em cima de fracassos repetidos e persistentes.', autor: 'Robert Kiyosaki'},
-    {frase: 'A vida não é sobre esperar que a tempestade passe, mas sobre aprender a dançar na chuva.', autor: 'Vivian Greene'}
+    {frase: 'A vida não é sobre esperar que a tempestade passe, mas sobre aprender a dançar na chuva.', autor: 'Vivian Greene'},
+    {frase: 'A força não provém da capacidade física. Provém de uma vontade indomável.', autor: 'Mahatma Gandhi'},
+    {frase: 'Transportai um punhado de terra todos os dias e fareis uma montanha.', autor: 'Confúcio'},
+    {frase: , autor: },
 ]
 
 const frase = document.getElementById('frase')
