@@ -14,7 +14,8 @@ const frases = [
     {frase: 'A força não provém da capacidade física. Provém de uma vontade indomável.', autor: 'Mahatma Gandhi'},
     {frase: 'Transportai um punhado de terra todos os dias e fareis uma montanha.', autor: 'Confúcio'},
     {frase: 'A felicidade não é a ausência de problemas, mas a habilidade de lidar com eles.', autor: 'Charles de Montesquieu'},
-    {frase: 'O sucesso não é a chave para a felicidade. A felicidade é a chave para o sucesso.', autor: 'Albert Schweitzer'}
+    {frase: 'O sucesso não é a chave para a felicidade. A felicidade é a chave para o sucesso.', autor: 'Albert Schweitzer'},
+    {frase: 'O único lugar onde o sucesso vem antes do trabalho é no dicionário.', autor: 'Vidal Sassoon'}
      
 ]
 
