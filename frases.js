@@ -17,7 +17,8 @@ const frases = [
     {frase: 'O sucesso não é a chave para a felicidade. A felicidade é a chave para o sucesso.', autor: 'Albert Schweitzer'},
     {frase: 'O único lugar onde o sucesso vem antes do trabalho é no dicionário.', autor: 'Vidal Sassoon'},
     {frase: 'Se você acredita que pode, ou se você acredita que não pode, de qualquer forma você está certo.', autor: 'Henry Ford'},
-    {frase: 'Você tem dentro de si, agora, tudo de que precisa para enfrentar os desafios da vida.', autor: 'Brian Tracy'}
+    {frase: 'Você tem dentro de si, agora, tudo de que precisa para enfrentar os desafios da vida.', autor: 'Brian Tracy'},
+    {frase: 'Acredite em si mesmo, tenha fé em suas habilidades e nada será impossível', autor: 'Thomas Edison'}
      
 ]
 
