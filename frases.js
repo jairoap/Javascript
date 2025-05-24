@@ -19,7 +19,8 @@ const frases = [
     {frase: 'Se você acredita que pode, ou se você acredita que não pode, de qualquer forma você está certo.', autor: 'Henry Ford'},
     {frase: 'Você tem dentro de si, agora, tudo de que precisa para enfrentar os desafios da vida.', autor: 'Brian Tracy'},
     {frase: 'Acredite em si mesmo, tenha fé em suas habilidades e nada será impossível', autor: 'Thomas Edison'},
-    {frase: 'Homens fortes criam tempos fáceis e tempos fáceis geram homens fracos, mas homens fracos criam tempos difíceis e tempos difíceis geram homens fortes.', autor: 'Provérbio Oriental'}
+    {frase: 'Homens fortes criam tempos fáceis e tempos fáceis geram homens fracos, mas homens fracos criam tempos difíceis e tempos difíceis geram homens fortes.', autor: 'Provérbio Oriental'},
+    {frase: 'Nunca é tarde demais para se tornar a pessoa que você sempre quis ser.', autor: 'George Eliot'}
      
 ]
 
