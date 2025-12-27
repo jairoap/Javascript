@@ -20,7 +20,8 @@ const frases = [
     {frase: 'Você tem dentro de si, agora, tudo de que precisa para enfrentar os desafios da vida.', autor: 'Brian Tracy'},
     {frase: 'Acredite em si mesmo, tenha fé em suas habilidades e nada será impossível', autor: 'Thomas Edison'},
     {frase: 'Homens fortes criam tempos fáceis e tempos fáceis geram homens fracos, mas homens fracos criam tempos difíceis e tempos difíceis geram homens fortes.', autor: 'Provérbio Oriental'},
-    {frase: 'Nunca é tarde demais para se tornar a pessoa que você sempre quis ser.', autor: 'George Eliot'}
+    {frase: 'Nunca é tarde demais para se tornar a pessoa que você sempre quis ser.', autor: 'George Eliot'},
+    {frase: 'Lute. Acredite. Conquiste. Perca. Deseje. Espere. Alcance. Invada. Caia. Seja tudo o quiser ser, mas, acima de tudo, seja você sempre.', autor: 'Tumblr'}
      
 ]
 
